@@ -2,7 +2,7 @@
 
 ## Description
 
-This objective of this project was to refactor the codebase  to better optimize the webstie for accessibility under a 1-week sprint.
+This objective of this project was to refactor the codebase to better optimize the webstie for accessibility under a 1-week sprint.
 
 We changed the layers of div tags to other more meaningful semantic tags and offer better readibility, ergo better maintainability.
 This also presented itself as another excercise to strengthen my understanding of Git Workflow and figuring out how I would manage myself in future projects.
@@ -14,8 +14,8 @@ No installation.
 
 ## Usage
 
-Open page using a browser
-
+Open website using a browser <https://19dbo91.github.io/challenge1-accessibility/>
+Repo avaiable on GitHub <https://github.com/19dbo91/challenge1-accessibility>
 
 ## Credits
 
